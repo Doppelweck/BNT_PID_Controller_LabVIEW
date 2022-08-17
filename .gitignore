@@ -1,0 +1,24 @@
+########### MacOS
+*.DS_Store
+
+########### Folders
+NI RunTime/
+
+
+############ Libraries
+*.lvlibp
+*.llb
+
+########### Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+############ Executables
+*.exe
+
+############ Metadata
+*.aliases
+*.lvlps
+.cache/
